@@ -39,7 +39,7 @@ export default function Hero() {
         >
           <div className="bg-white shadow-lg rounded-2xl p-4 md:p-6 border border-[#E5E7EB]">
             <img
-              src="https://images.unsplash.com/photo-1594737625785-0c4d8f8e3c99?auto=format&fit=crop&w=1200&q=80"
+              src="https://plus.unsplash.com/premium_photo-1661898576032-fd26e3409175?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zml0bmVzcyUyMGNvYWNofGVufDB8fDB8fHww"
               alt="Personal Trainer"
               className="rounded-xl object-cover w-full h-[380px] md:h-[450px]"
               loading="lazy"
